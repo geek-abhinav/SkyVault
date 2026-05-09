@@ -274,7 +274,7 @@ const App = () => {
             <Cloud size={24} className="text-blue-500" />
             <span>SkyVault</span>
           </div>
-          <p className="text-white/40 text-sm">Designed & Developed by Abhinav Tiwari © 2026</p>
+          <p className="text-white/40 text-sm">Designed & Developed by Abhinav Tiwari © 2023</p>
           <div className="flex gap-8 text-white/60 text-sm font-medium">
             <a href="#" className="hover:text-white transition">Privacy Policy</a>
             <a href="#" className="hover:text-white transition">Terms of Service</a>
